@@ -1,7 +1,49 @@
 
+html {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #071013;
+}
+
+body nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+ul.stick {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    padding: 8px;
+    background: #8C1515;
+}
+
+
+
+.anchor {
+    position: absolute;
+    top: -20px; /* given the fixed header is 50px tall, and you want 15px padding */
+    left: 0px;
+  }
+
+.stick li {
+    list-style: none;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+.stick li a {
+    text-decoration: underline;
+    color: #fff;
+    
 }
 
 a {
