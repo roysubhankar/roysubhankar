@@ -11,11 +11,11 @@
             
             <div style="width: 100%; overflow: hidden;" class="publication_div">
                 <!-- for teaser -->
-                <div style="width: 400px; float: left;">
-                    <img src="{{ $page.Params.teaser }}" alt="hahahahah" width="350"/>
+                <div style="width: 420px; float: left;">
+                    <img src="{{ $page.Params.teaser }}" alt="" width="400"/>
                 </div>
                 <!-- for paper details -->
-                <div>
+                <div style="margin-left: 430px;">
                     <div class="section-1 w-100">
                         <!-- paper name -->
                         <span>
@@ -55,7 +55,7 @@
                         </div>
                         <!-- tldr -->
                         <div class="section-1 w-100">
-                            <span class="text-muted"><strong>TLDR:</strong> {{$page.Params.tldr}}</span>
+                            <span class="text-muted"><u>TL;DR</u>: {{$page.Params.tldr}}</span>
                         </div>
                         <!-- venue -->
                         <div>
@@ -72,7 +72,13 @@
                             {{ $slides := index $page.Params.links "slides"}}
                             {{ $video := index $page.Params.links "video"}}
                             {{ $poster := index $page.Params.links "poster"}}
-
+                            {{ $project := index $page.Params.links "project"}}
+                            
+                            {{ if $project }}
+                                <a class="main_color text-decoration-none rounded" href="{{$project}}" target="_blank">
+                                    Project Page <i data-feather="chrome"></i>
+                                </a>
+                            {{end}}
                             {{ if $proceedings }}
                                 <a class="main_color text-decoration-none rounded" href="{{$proceedings}}" target="_blank">
                                     Proceedings <i data-feather="file"></i>

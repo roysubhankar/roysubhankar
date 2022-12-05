@@ -5,12 +5,14 @@ googleAnalytics = "UA/G-123123-12"
 
 languageCode = "en-us"
 
+
+
 # for using avicenna you need to set the themes to 'avicenna'
 enableEmoji = true
 theme = "my-theme"
 
 # This is your page title, it appears in your tab
-title = "Subhankar Roy"
+title = "Subhankar Roy - Personal Website"
 
 # number of posts to show on the blog page
 paginate = 10
@@ -24,3 +26,8 @@ startLevel = 1
 [params]
 # it is used for the copy-right section of your page
 name = "Subhankar Roy"
+# set live to true before pushing to github
+# done to exclude the debug website count from live counts
+# set to false while debugging or developing
+liveWebsite = true
+
