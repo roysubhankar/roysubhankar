@@ -329,3 +329,44 @@ h2 code {
 .read_more {
     margin-top: 1%;
 }
+
+
+
+
+
+
+
+.teaser {
+    height: 200px;
+    width: 35%;
+    display: table-cell;
+    margin-top: -100px;
+}
+
+.teaser img {
+    width: 400px;
+}
+
+.pubcontent {
+    height: 200px;
+    width: 60%;
+    display: table-cell;
+    vertical-align: top;
+}
+
+@media (max-width: 920px){
+    .teaser {
+      display: table-cell;
+      width: 400px;
+    }
+
+    .teaser img {
+        width: 400px;
+    }
+    
+    .pubcontent {
+      display: block;
+      height: 250px;
+      width: 100%;
+    }
+  }
