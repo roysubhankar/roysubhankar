@@ -4,26 +4,28 @@
 {{ $rscPages := $t.Resources.ByType "page"}}
 
 {{if gt (len $rscPages) 0}}
-<div class="publications row w-100">
-    <div class="col w-100">
+<div>
+    <div>
         {{ range $page := $rscPages}}
-        <div class="publication row  w-100">
-            
-            <div style="width: 100%; overflow: hidden;" class="publication_div">
+        <div>
+            <hr>
+            <div class="publication_div">
+                
                 <!-- for teaser -->
-                <div style="width: 420px; float: left;">
-                    <img src="{{ $page.Params.teaser }}" alt="" width="400"/>
+                <div class="teaser">
+                    <img src="{{ $page.Params.teaser }}"/>
                 </div>
+                
                 <!-- for paper details -->
-                <div style="margin-left: 430px;">
-                    <div class="section-1 w-100">
+                <div class="pubcontent">
+                    <div>
                         <!-- paper name -->
                         <span>
                             <strong>{{$page.Params.title}}</strong>
                         </span>
                         <br>
                         <!-- authors -->
-                        <div class="section-2 w-100">
+                        <div>
                             {{ $authors := $page.Params.authors }}
             
                                 {{ if $authors }}
@@ -54,7 +56,7 @@
             
                         </div>
                         <!-- tldr -->
-                        <div class="section-1 w-100">
+                        <div>
                             <span class="text-muted"><u>TL;DR</u>: {{$page.Params.tldr}}</span>
                         </div>
                         <!-- venue -->
@@ -65,7 +67,7 @@
                         
                         <!-- for links -->
                         {{ $links := $page.Params.links }}
-                        <div class="section-3  w-100">
+                        <div>
                             {{ $proceedings := index $page.Params.links "proceedings"}}
                             {{ $arxiv := index $page.Params.links "arxiv"}}
                             {{ $github := index $page.Params.links "github"}}
