@@ -30,5 +30,5 @@ name = "Subhankar Roy"
 # set live to true before pushing to github
 # done to exclude the debug website count from live counts
 # set to false while debugging or developing
-liveWebsite = true
+liveWebsite = false
 

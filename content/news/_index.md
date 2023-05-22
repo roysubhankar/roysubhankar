@@ -11,7 +11,20 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items:
-- text: "I joined [Fondazione Bruno Kessler]() as a deep learning researcher"
+- text: "1 paper accepted to Conference on Lifelong Learning Agents (CoLLAs) 2023"
+  extra_text: "May 2023."
+  date: 2023-05-10
+  icon: "paperclip"
+- text: "3 papers accepted to CVPR 2023 (1 main + 2 workshops)"
+  extra_text: "April 2023."
+  date: 2023-04-01
+  icon: "paperclip"
+
+- text: "I have joined [Telecom Paris](https://www.telecom-paris.fr/) as a postdoctoral researcher"
+  extra_text: "February 2022."
+  date: 2023-02-01
+  icon: "briefcase"
+- text: "I have joined [Fondazione Bruno Kessler]() as a deep learning researcher"
   extra_text: "November 2022."
   date: 2022-11-02
   icon: "briefcase"
