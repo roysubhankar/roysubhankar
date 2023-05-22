@@ -26,9 +26,9 @@ interests:
 
 affiliations:
     - affiliation:
-        title: "Researcher"
-        name: "Fondazione Bruno Kessler, Trento"
-        email: "sroy [at] fbk [dot] eu"
+        title: "Postdoctoral Researcher"
+        name: "Telecom Paris, Institut Polytechnique de Paris"
+        email: "firstname.lastname[at]telcom-paris[dot]fr"
     #- affiliation:
     #    title: "CEO & Co-Founder"
     #    name: "The Coolest Startup In the World"
@@ -63,6 +63,6 @@ academia:
 ---
 ## Hi there! 👋
 
-I am a deep learning researcher at the *Deep Visual Learning Lab* of **Fondazione Bruno Kessler**, led by [Prof. Elisa Ricci](http://elisaricci.eu/). The primary focus of my research is to equip deep learning models with better generalization capabilities under *data distribution* and *semantic* shifts. In particular, my main research areas include **domain adaptation**, **continual learning**, **novel class discovery**, and so on.
+I am a postdoctoral researcher at the *Multimedia Team* of **Telecom Paris**. The primary focus of my research is to equip deep learning models with better generalization capabilities under *data distribution* and *semantic* shifts. In particular, my main research areas include **domain adaptation**, **continual learning**, **novel class discovery**, and so on.
 
 I received my Ph.D. degree in 2022 with *cum-laude* from the University of Trento, where I was advised by Prof. Elisa Ricci and [Prof. Nicu Sebe](https://disi.unitn.it/~sebe/). During my Ph.D. I spent six wonderful months as an intern in **Naver Labs Europe**, where I had the pleasure to work with [Gabriela Csurka](https://europe.naverlabs.com/people_user/Gabriela-Csurka/) and other brilliant colleagues. I was also fortunate to collaborate with [Prof. Arno Solin](https://users.aalto.fi/~asolin/) from Aalto University, with whom I worked on bayesian neural networks.  Prior to the doctoral degree, in 2018 I received the M.Sc. degree in Telecommunication engineering from the University of Trento with the maximum marks. During my masters I worked with [Prof. Begüm Demir](https://begumdemir.com/) on applying deep learning techniques to tackle remote sensing problems.
