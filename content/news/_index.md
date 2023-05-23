@@ -15,7 +15,7 @@ news_items:
   extra_text: "May 2023."
   date: 2023-05-10
   icon: "paperclip"
-- text: "3 papers accepted to CVPR 2023 (1 main + 2 workshops)"
+- text: "1 paper accepted to CVPR 2023 (+ 2 workshops)"
   extra_text: "April 2023."
   date: 2023-04-01
   icon: "paperclip"
