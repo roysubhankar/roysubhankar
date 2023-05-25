@@ -21,7 +21,7 @@ news_items:
   icon: "paperclip"
 
 - text: "I have joined [Telecom Paris](https://www.telecom-paris.fr/) as a postdoctoral researcher"
-  extra_text: "February 2022."
+  extra_text: "February 2023."
   date: 2023-02-01
   icon: "briefcase"
 - text: "I have joined [Fondazione Bruno Kessler]() as a deep learning researcher"
