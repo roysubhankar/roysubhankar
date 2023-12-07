@@ -10,7 +10,13 @@ default_news_icon: "file-text"
 
 num_news: 5
 
-news_items:
+news_items: 
+- text: "1 paper accepted to ICCV 2023"
+  extra_text: "October 2023."
+  icon: "paperclip"
+- text: "Joined University of Aberdeen as a Lecturer (or Assistant Professor)"
+  date: 2023-09-01
+  icon: "briefcase"
 - text: "1 paper accepted to Conference on Lifelong Learning Agents (CoLLAs) 2023"
   extra_text: "May 2023."
   date: 2023-05-10
