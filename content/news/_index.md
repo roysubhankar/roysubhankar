@@ -11,6 +11,9 @@ default_news_icon: "file-text"
 num_news: 5
 
 news_items: 
+- text: "1 paper accepted to ICLR 2024"
+  extra_text: "January 2024."
+  icon: "paperclip"
 - text: "1 paper accepted to ICCV 2023"
   extra_text: "October 2023."
   icon: "paperclip"
