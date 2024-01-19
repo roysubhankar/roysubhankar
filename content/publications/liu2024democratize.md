@@ -25,7 +25,7 @@ authors:
         name: "Elisa Ricci"
         link: "http://elisaricci.eu/"
 
-teaser: images/publications/finer.png
+
 tldr: FineR leverages large language models to identify fine-grained image categories without expert annotations, by interpreting visual attributes as text. This allows it to reason about subtle differences between species or objects, outperforming current FGVR methods.
 
 links:
