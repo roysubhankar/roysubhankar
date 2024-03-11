@@ -8,9 +8,12 @@ headless: true
 show_news_icons: true
 default_news_icon: "file-text"
 
-num_news: 5
+num_news: 10
 
 news_items: 
+- text: "1 paper accepted to CVPR 2024"
+  extra_text: "February 2024."
+  icon: "paperclip"
 - text: "1 paper accepted to ICLR 2024"
   extra_text: "January 2024."
   icon: "paperclip"
@@ -19,6 +22,7 @@ news_items:
   icon: "paperclip"
 - text: "Joined University of Aberdeen as a Lecturer (or Assistant Professor)"
   date: 2023-09-01
+  extra_text: "September 2023."
   icon: "briefcase"
 - text: "1 paper accepted to Conference on Lifelong Learning Agents (CoLLAs) 2023"
   extra_text: "May 2023."
@@ -38,13 +42,13 @@ news_items:
   date: 2022-11-02
   icon: "briefcase"
 
-- text: "I completed my Ph.D with cum laude. My thesis is available [here](https://iris.unitn.it/handle/11572/354343)"
+- text: "I received my Ph.D (summa cum laude). My thesis is available [here](https://iris.unitn.it/handle/11572/354343)"
   #link: https://https://feathericons.com//
   extra_text: "September 2022."
   date: 2022-09-29
   icon: "award"
 
-- text: "One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/). Congrats to Yangsong Zhang"
+- text: "1 paper accepted to [WACV 2023](https://wacv2023.thecvf.com/). Congrats to Yangsong Zhang"
   #link: https://https://feathericons.com//
   extra_text: "August 2022."
   date: 2021-08-20

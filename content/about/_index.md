@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Subhankar Roy, Ph.D"
 profile_picture: "images/profile.png"
-#cv: "cv.pdf"
+cv: "CV.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
@@ -23,7 +23,13 @@ interests:
     - Continual Learning
     - Open World Recognition
     - Weakly Supervised Learning
-    - Multi-modal learning
+    - Multi-modal Learning
+    - Visual Reasoning
+
+teaching:
+    - Advanced Programming (CS551P) at University of Aberdeen
+    - Modelling and Problem Solving for Computing (CS1029) at University of Aberdeen
+    - Deep Learning at University of Trento
 
 affiliations:
     - affiliation:
