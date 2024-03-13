@@ -3,7 +3,7 @@ title: "Simplifying open-set video domain adaptation with contrastive learning"
 date: "2024-10-01"
 publication: "Conference Vision and Image Understanding"
 publcation_abbreviation: "CVIU"
-#location: Vancouver, Canada
+location: Journal
 
 authors:
     - item: 
