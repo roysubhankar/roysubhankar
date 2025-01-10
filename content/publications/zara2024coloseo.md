@@ -1,6 +1,6 @@
 ---
 title: "Simplifying open-set video domain adaptation with contrastive learning"
-date: "2024-10-01"
+date: "2024-04-01"
 publication: "Conference Vision and Image Understanding"
 publcation_abbreviation: "CVIU"
 location: Journal

@@ -33,9 +33,9 @@ teaching:
 
 affiliations:
     - affiliation:
-        title: "Lecturer (or Assistant Professor)"
-        name: "University of Aberdeen, UK"
-        email: "firstname.lastname[at]abdn[dot]ac[dot]uk"
+        title: "Postdoctoral researcher"
+        name: "University of Trento, Italy"
+        email: "subhankar.roy[at]unitn[dot]it"
     #- affiliation:
     #    title: "CEO & Co-Founder"
     #    name: "The Coolest Startup In the World"
@@ -66,6 +66,6 @@ academia:
 ---
 ## Hi there! 👋
 
-I am a Lecturer (or Assistant Professor) at the University of Aberdeen, UK. The primary focus of my research is to equip deep learning models with better generalization capabilities under *data distribution* and *semantic* shifts. In particular, my main research areas include **multimodal learning**, **domain adaptation**, **continual learning**, **novel class discovery**, and so on.
+I am a Postdoctoral researcher at University of Trento, Italy. The primary focus of my research is to equip deep learning models with better generalization capabilities under *data distribution* and *semantic* shifts. In particular, my main research areas include **multimodal learning**, **domain adaptation**, **continual learning**, **novel class discovery**, and so on.
 
-I received my Ph.D. degree in 2022 with *cum-laude* from the University of Trento, where I was advised by Prof. Elisa Ricci and [Prof. Nicu Sebe](https://disi.unitn.it/~sebe/). During my Ph.D. I spent six wonderful months as an intern in **Naver Labs Europe**, where I had the pleasure to work with [Gabriela Csurka](https://europe.naverlabs.com/people_user/Gabriela-Csurka/) and other brilliant colleagues. I was also fortunate to collaborate with [Prof. Arno Solin](https://users.aalto.fi/~asolin/) from Aalto University, with whom I worked on bayesian neural networks.  Prior to the doctoral degree, in 2018 I received the M.Sc. degree in Telecommunication engineering from the University of Trento with the maximum marks. During my masters I worked with [Prof. Begüm Demir](https://begumdemir.com/) on applying deep learning techniques to tackle remote sensing problems. Before becoming a lecturer, I worked as a postdoctoral researcher at the *Multimedia Team* of **Telecom Paris**.
+Previous to this I was a Postdoctoral researcher at Telecom Paris and lecturer at University of Aberdeen. I received my Ph.D. degree in 2022 with *cum-laude* from the University of Trento, where I was advised by Prof. Elisa Ricci and [Prof. Nicu Sebe](https://disi.unitn.it/~sebe/). During my Ph.D. I spent six wonderful months as an intern in **Naver Labs Europe**, where I had the pleasure to work with [Gabriela Csurka](https://europe.naverlabs.com/people_user/Gabriela-Csurka/) and other brilliant colleagues. I was also fortunate to collaborate with [Prof. Arno Solin](https://users.aalto.fi/~asolin/) from Aalto University, with whom I worked on bayesian neural networks.  Prior to the doctoral degree, in 2018 I received the M.Sc. degree in Telecommunication engineering from the University of Trento with the maximum marks. During my masters I worked with [Prof. Begüm Demir](https://begumdemir.com/) on applying deep learning techniques to tackle remote sensing problems.

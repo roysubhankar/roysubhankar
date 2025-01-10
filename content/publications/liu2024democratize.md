@@ -31,7 +31,7 @@ tldr: FineR leverages large language models to identify fine-grained image categ
 links:
     proceedings: "https://openreview.net/forum?id=c7DND1iIgb"
     arXiv: ""
-    github: ""
+    github: "https://github.com/OatmealLiu/FineR"
     slides: ""
     video: ""
     poster: ""
