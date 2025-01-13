@@ -6,7 +6,7 @@ headless: true
 
 full_name: "Subhankar Roy, Ph.D"
 profile_picture: "images/profile.png"
-cv: "CV.pdf"
+cv: "CV_Roy.pdf"
 # set to false if you don't want to show your blog
 blog: false
 
